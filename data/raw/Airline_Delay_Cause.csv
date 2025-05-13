@@ -1,0 +1,85 @@
+year,month,carrier,carrier_name,airport,airport_name,arr_flights,arr_del15,carrier_ct,weather_ct,nas_ct,security_ct,late_aircraft_ct,arr_cancelled,arr_diverted,arr_delay,carrier_delay,weather_delay,nas_delay,security_delay,late_aircraft_delay
+2025,1,UA,United Air Lines Network,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",567.00,108.00,41.69,4.00,35.75,0.00,26.57,31.00,1.00,6862.00,2659.00,345.00,1304.00,0.00,2554.00
+2025,1,UA,United Air Lines Network,AUS,"Austin, TX: Austin - Bergstrom International",721.00,153.00,56.51,1.51,53.71,0.00,41.27,15.00,0.00,7991.00,3521.00,84.00,1941.00,0.00,2445.00
+2025,1,UA,United Air Lines Network,BNA,"Nashville, TN: Nashville International",425.00,67.00,26.80,0.18,20.58,0.00,19.43,14.00,0.00,4469.00,1530.00,6.00,813.00,0.00,2120.00
+2025,1,UA,United Air Lines Network,BOS,"Boston, MA: Logan International",919.00,114.00,42.62,11.98,24.46,0.00,34.93,12.00,0.00,6592.00,2485.00,569.00,1008.00,0.00,2530.00
+2025,1,UA,United Air Lines Network,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",256.00,43.00,17.12,1.34,12.42,0.00,12.12,10.00,0.00,2205.00,803.00,90.00,455.00,0.00,857.00
+2025,1,UA,United Air Lines Network,CLT,"Charlotte, NC: Charlotte Douglas International",217.00,45.00,10.15,0.00,24.30,0.00,10.56,2.00,2.00,1907.00,578.00,0.00,848.00,0.00,481.00
+2025,1,UA,United Air Lines Network,DCA,"Washington, DC: Ronald Reagan Washington National",470.00,68.00,18.80,3.14,29.44,0.00,16.62,28.00,4.00,3328.00,693.00,156.00,1042.00,0.00,1437.00
+2025,1,UA,United Air Lines Network,DEN,"Denver, CO: Denver International",8459.00,1625.00,456.81,58.41,653.67,0.00,456.11,104.00,8.00,104986.00,31436.00,6070.00,27702.00,0.00,39778.00
+2025,1,UA,United Air Lines Network,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",748.00,132.00,42.30,1.91,54.59,0.00,33.20,32.00,5.00,8983.00,2218.00,315.00,3154.00,0.00,3296.00
+2025,1,UA,United Air Lines Network,DTW,"Detroit, MI: Detroit Metro Wayne County",210.00,37.00,17.52,0.00,7.10,0.00,12.38,4.00,0.00,1762.00,627.00,0.00,277.00,0.00,858.00
+2025,1,UA,United Air Lines Network,EWR,"Newark, NJ: Newark Liberty International",5861.00,919.00,289.97,23.00,342.87,0.00,263.16,101.00,8.00,63992.00,20450.00,2371.00,14817.00,0.00,26354.00
+2025,1,UA,United Air Lines Network,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",853.00,165.00,44.06,6.32,68.27,0.00,46.35,12.00,0.00,9328.00,2334.00,456.00,2707.00,0.00,3831.00
+2025,1,UA,United Air Lines Network,IAD,"Washington, DC: Washington Dulles International",2600.00,439.00,148.18,13.29,170.85,0.00,106.68,55.00,3.00,26666.00,8129.00,1202.00,7473.00,0.00,9862.00
+2025,1,UA,United Air Lines Network,IAH,"Houston, TX: George Bush Intercontinental/Houston",5861.00,1006.00,316.83,26.50,449.04,0.00,213.64,305.00,20.00,66588.00,21122.00,2587.00,22171.00,0.00,20708.00
+2025,1,UA,United Air Lines Network,LAS,"Las Vegas, NV: Harry Reid International",1293.00,260.00,57.63,16.73,120.38,0.00,65.25,11.00,4.00,16273.00,3680.00,1396.00,6268.00,0.00,4929.00
+2025,1,UA,United Air Lines Network,LAX,"Los Angeles, CA: Los Angeles International",2157.00,316.00,121.43,6.70,107.95,0.00,79.93,20.00,8.00,23606.00,12169.00,386.00,3650.00,0.00,7401.00
+2025,1,UA,United Air Lines Network,LGA,"New York, NY: LaGuardia",635.00,126.00,31.05,7.46,58.54,0.00,28.95,15.00,3.00,7131.00,1827.00,593.00,2736.00,0.00,1975.00
+2025,1,UA,United Air Lines Network,MCO,"Orlando, FL: Orlando International",1293.00,212.00,69.78,9.89,72.24,0.00,60.09,13.00,0.00,12571.00,4078.00,569.00,3076.00,0.00,4848.00
+2025,1,UA,United Air Lines Network,MIA,"Miami, FL: Miami International",702.00,152.00,37.12,3.11,74.82,0.00,36.95,8.00,1.00,9118.00,2162.00,302.00,3793.00,0.00,2861.00
+2025,1,UA,United Air Lines Network,MSP,"Minneapolis, MN: Minneapolis-St Paul International",356.00,60.00,26.09,2.27,9.66,0.00,21.98,3.00,0.00,3547.00,1384.00,177.00,477.00,0.00,1509.00
+2025,1,UA,United Air Lines Network,ORD,"Chicago, IL: Chicago O'Hare International",6635.00,1112.00,345.67,22.98,448.99,0.00,294.35,87.00,10.00,77691.00,26579.00,1848.00,20404.00,0.00,28860.00
+2025,1,UA,United Air Lines Network,PHL,"Philadelphia, PA: Philadelphia International",283.00,44.00,13.50,1.87,9.21,0.00,19.42,2.00,0.00,2797.00,697.00,84.00,369.00,0.00,1647.00
+2025,1,UA,United Air Lines Network,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",950.00,143.00,40.15,5.73,49.92,0.00,47.19,7.00,1.00,8197.00,2617.00,351.00,1714.00,0.00,3515.00
+2025,1,UA,United Air Lines Network,SAN,"San Diego, CA: San Diego International",794.00,117.00,38.53,8.50,40.90,0.00,29.07,8.00,9.00,7031.00,1731.00,1036.00,2116.00,0.00,2148.00
+2025,1,UA,United Air Lines Network,SEA,"Seattle, WA: Seattle/Tacoma International",611.00,97.00,37.86,2.04,23.91,0.00,33.19,3.00,2.00,5726.00,1994.00,150.00,1026.00,0.00,2556.00
+2025,1,UA,United Air Lines Network,SFO,"San Francisco, CA: San Francisco International",4293.00,538.00,208.46,21.66,166.01,0.00,141.87,46.00,2.00,36261.00,13219.00,1221.00,6582.00,0.00,15239.00
+2025,1,UA,United Air Lines Network,SLC,"Salt Lake City, UT: Salt Lake City International",451.00,95.00,41.76,2.88,26.79,0.00,23.57,4.00,0.00,4542.00,2064.00,117.00,1009.00,0.00,1352.00
+2025,1,UA,United Air Lines Network,TPA,"Tampa, FL: Tampa International",785.00,138.00,41.70,5.65,52.71,0.00,37.93,7.00,1.00,8261.00,2940.00,345.00,2208.00,0.00,2768.00
+2024,12,UA,United Air Lines Network,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",531.00,104.00,36.79,1.87,32.29,0.00,33.04,4.00,1.00,5019.00,1635.00,219.00,1216.00,0.00,1949.00
+2024,12,UA,United Air Lines Network,AUS,"Austin, TX: Austin - Bergstrom International",723.00,143.00,50.52,3.85,39.02,0.00,49.60,2.00,0.00,9271.00,3312.00,376.00,1307.00,0.00,4276.00
+2024,12,UA,United Air Lines Network,BNA,"Nashville, TN: Nashville International",448.00,92.00,36.54,0.92,22.76,0.00,31.78,2.00,0.00,4694.00,1520.00,132.00,750.00,0.00,2292.00
+2024,12,UA,United Air Lines Network,BOS,"Boston, MA: Logan International",971.00,202.00,61.00,6.25,74.43,0.63,59.69,9.00,2.00,17074.00,4202.00,2113.00,5957.00,12.00,4790.00
+2024,12,UA,United Air Lines Network,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",283.00,45.00,18.30,0.85,6.47,0.00,19.38,0.00,0.00,2130.00,751.00,225.00,262.00,0.00,892.00
+2024,12,UA,United Air Lines Network,CLT,"Charlotte, NC: Charlotte Douglas International",321.00,75.00,22.42,1.93,20.64,0.00,30.01,0.00,2.00,4895.00,1509.00,75.00,666.00,0.00,2645.00
+2024,12,UA,United Air Lines Network,DCA,"Washington, DC: Ronald Reagan Washington National",474.00,94.00,33.75,2.98,35.77,0.00,21.50,0.00,0.00,4858.00,1859.00,278.00,1400.00,0.00,1321.00
+2024,12,UA,United Air Lines Network,DEN,"Denver, CO: Denver International",8538.00,1050.00,420.34,30.29,245.62,0.00,353.74,33.00,3.00,76015.00,28956.00,3099.00,9340.00,0.00,34620.00
+2024,12,UA,United Air Lines Network,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",691.00,129.00,46.72,5.53,40.79,0.00,35.95,2.00,6.00,8457.00,2769.00,406.00,2427.00,0.00,2855.00
+2024,12,UA,United Air Lines Network,DTW,"Detroit, MI: Detroit Metro Wayne County",216.00,34.00,12.76,1.50,7.36,0.00,12.38,1.00,0.00,1870.00,745.00,166.00,219.00,0.00,740.00
+2024,12,UA,United Air Lines Network,EWR,"Newark, NJ: Newark Liberty International",5955.00,1536.00,373.49,33.82,744.03,0.00,384.66,36.00,11.00,116838.00,30508.00,4246.00,46595.00,0.00,35489.00
+2024,12,UA,United Air Lines Network,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",835.00,175.00,44.31,4.60,79.53,0.00,46.57,5.00,0.00,9607.00,2461.00,422.00,3684.00,0.00,3040.00
+2024,12,UA,United Air Lines Network,IAD,"Washington, DC: Washington Dulles International",2742.00,468.00,187.99,7.18,133.39,0.00,139.44,10.00,1.00,32238.00,12054.00,661.00,5174.00,0.00,14349.00
+2024,12,UA,United Air Lines Network,IAH,"Houston, TX: George Bush Intercontinental/Houston",6015.00,1152.00,359.25,25.76,483.26,0.00,283.73,68.00,15.00,90828.00,25210.00,4046.00,28838.00,0.00,32734.00
+2024,12,UA,United Air Lines Network,LAS,"Las Vegas, NV: Harry Reid International",1261.00,175.00,70.21,3.59,40.70,0.00,60.50,3.00,2.00,9436.00,3593.00,370.00,1331.00,0.00,4142.00
+2024,12,UA,United Air Lines Network,LAX,"Los Angeles, CA: Los Angeles International",2386.00,383.00,139.88,8.42,119.70,0.00,114.99,6.00,5.00,24065.00,7701.00,1024.00,3876.00,0.00,11464.00
+2024,12,UA,United Air Lines Network,LGA,"New York, NY: LaGuardia",644.00,146.00,40.61,6.51,68.04,0.00,30.84,0.00,3.00,8186.00,2693.00,357.00,3078.00,0.00,2058.00
+2024,12,UA,United Air Lines Network,MCO,"Orlando, FL: Orlando International",1249.00,238.00,74.20,8.23,89.36,0.00,66.21,13.00,4.00,15007.00,4417.00,757.00,3840.00,0.00,5993.00
+2024,12,UA,United Air Lines Network,MIA,"Miami, FL: Miami International",662.00,186.00,53.90,3.02,88.53,0.00,40.55,3.00,0.00,11237.00,2756.00,338.00,4660.00,0.00,3483.00
+2024,12,UA,United Air Lines Network,MSP,"Minneapolis, MN: Minneapolis-St Paul International",359.00,63.00,30.84,2.18,7.35,0.00,22.63,1.00,0.00,3452.00,1407.00,226.00,289.00,0.00,1530.00
+2024,12,UA,United Air Lines Network,ORD,"Chicago, IL: Chicago O'Hare International",7111.00,1406.00,420.01,21.68,636.74,0.00,327.57,25.00,4.00,84243.00,27662.00,2119.00,22261.00,0.00,32201.00
+2024,12,UA,United Air Lines Network,PHL,"Philadelphia, PA: Philadelphia International",324.00,56.00,15.16,1.83,24.47,0.00,14.54,3.00,0.00,2928.00,824.00,222.00,823.00,0.00,1059.00
+2024,12,UA,United Air Lines Network,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",1020.00,134.00,44.37,4.07,29.48,0.00,56.08,1.00,1.00,8047.00,2434.00,502.00,1057.00,0.00,4054.00
+2024,12,UA,United Air Lines Network,SAN,"San Diego, CA: San Diego International",880.00,188.00,52.50,12.28,66.60,0.00,56.62,7.00,17.00,15823.00,2817.00,4353.00,3561.00,0.00,5092.00
+2024,12,UA,United Air Lines Network,SEA,"Seattle, WA: Seattle/Tacoma International",643.00,91.00,33.07,3.22,16.08,0.00,38.63,2.00,2.00,5003.00,1780.00,517.00,549.00,0.00,2157.00
+2024,12,UA,United Air Lines Network,SFO,"San Francisco, CA: San Francisco International",4585.00,964.00,282.57,30.12,415.26,0.00,236.05,27.00,5.00,66778.00,19949.00,3770.00,20737.00,0.00,22322.00
+2024,12,UA,United Air Lines Network,SLC,"Salt Lake City, UT: Salt Lake City International",348.00,75.00,26.63,2.83,13.62,0.58,31.35,2.00,1.00,4601.00,1413.00,503.00,561.00,15.00,2109.00
+2024,12,UA,United Air Lines Network,TPA,"Tampa, FL: Tampa International",803.00,161.00,44.71,2.05,69.18,0.00,45.07,1.00,1.00,7999.00,2045.00,402.00,3001.00,0.00,2551.00
+2024,11,UA,United Air Lines Network,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",616.00,91.00,29.09,2.54,28.39,0.00,30.98,2.00,1.00,5335.00,1637.00,151.00,1127.00,0.00,2420.00
+2024,11,UA,United Air Lines Network,AUS,"Austin, TX: Austin - Bergstrom International",879.00,160.00,47.48,1.29,54.41,0.00,56.83,2.00,4.00,10163.00,2646.00,176.00,2532.00,0.00,4809.00
+2024,11,UA,United Air Lines Network,BNA,"Nashville, TN: Nashville International",542.00,94.00,26.33,2.04,36.50,0.00,29.13,0.00,0.00,6017.00,1212.00,193.00,1465.00,0.00,3147.00
+2024,11,UA,United Air Lines Network,BOS,"Boston, MA: Logan International",1075.00,216.00,65.42,5.05,75.93,0.00,69.60,0.00,2.00,14162.00,3450.00,543.00,3606.00,0.00,6563.00
+2024,11,UA,United Air Lines Network,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",298.00,37.00,13.94,0.61,15.37,0.00,7.08,0.00,0.00,1823.00,864.00,65.00,602.00,0.00,292.00
+2024,11,UA,United Air Lines Network,CLT,"Charlotte, NC: Charlotte Douglas International",346.00,62.00,17.35,0.01,31.78,0.00,12.86,0.00,0.00,3128.00,756.00,1.00,1232.00,0.00,1139.00
+2024,11,UA,United Air Lines Network,DCA,"Washington, DC: Ronald Reagan Washington National",499.00,76.00,29.42,2.80,22.27,0.00,21.50,0.00,1.00,4175.00,1451.00,168.00,1042.00,0.00,1514.00
+2024,11,UA,United Air Lines Network,DEN,"Denver, CO: Denver International",8315.00,1228.00,345.72,20.52,416.68,0.00,445.09,33.00,5.00,77386.00,23222.00,1688.00,16320.00,0.00,36156.00
+2024,11,UA,United Air Lines Network,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",771.00,149.00,37.50,3.73,69.64,0.00,38.13,2.00,8.00,10937.00,1793.00,345.00,4723.00,0.00,4076.00
+2024,11,UA,United Air Lines Network,DTW,"Detroit, MI: Detroit Metro Wayne County",214.00,30.00,13.04,0.80,5.17,0.00,10.99,0.00,0.00,2089.00,687.00,56.00,277.00,0.00,1069.00
+2024,11,UA,United Air Lines Network,EWR,"Newark, NJ: Newark Liberty International",5824.00,1565.00,217.69,30.03,1023.08,0.00,294.20,22.00,12.00,129175.00,18738.00,2589.00,80537.00,0.00,27311.00
+2024,11,UA,United Air Lines Network,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",715.00,93.00,26.06,2.11,29.74,0.00,35.09,1.00,0.00,5622.00,1589.00,153.00,1204.00,0.00,2676.00
+2024,11,UA,United Air Lines Network,IAD,"Washington, DC: Washington Dulles International",2844.00,293.00,113.00,2.19,70.95,0.00,106.86,11.00,1.00,18651.00,7472.00,170.00,2500.00,0.00,8509.00
+2024,11,UA,United Air Lines Network,IAH,"Houston, TX: George Bush Intercontinental/Houston",5700.00,676.00,206.35,6.09,256.73,0.00,206.83,18.00,2.00,44139.00,18061.00,381.00,8930.00,0.00,16767.00
+2024,11,UA,United Air Lines Network,LAS,"Las Vegas, NV: Harry Reid International",1281.00,215.00,74.07,3.18,64.16,0.00,73.60,4.00,2.00,13260.00,4717.00,193.00,2859.00,0.00,5491.00
+2024,11,UA,United Air Lines Network,LAX,"Los Angeles, CA: Los Angeles International",2381.00,362.00,133.97,5.87,115.96,0.00,106.21,14.00,5.00,23548.00,9068.00,211.00,4138.00,0.00,10131.00
+2024,11,UA,United Air Lines Network,LGA,"New York, NY: LaGuardia",675.00,106.00,25.79,3.19,51.92,0.00,25.10,1.00,0.00,6651.00,1377.00,290.00,2656.00,0.00,2328.00
+2024,11,UA,United Air Lines Network,MCO,"Orlando, FL: Orlando International",1175.00,168.00,64.34,2.59,43.60,0.00,57.47,3.00,0.00,10283.00,3040.00,200.00,1844.00,0.00,5199.00
+2024,11,UA,United Air Lines Network,MIA,"Miami, FL: Miami International",561.00,90.00,26.22,0.79,33.28,0.00,29.71,0.00,0.00,4814.00,1247.00,78.00,1587.00,0.00,1902.00
+2024,11,UA,United Air Lines Network,MSP,"Minneapolis, MN: Minneapolis-St Paul International",443.00,64.00,22.92,1.71,16.46,0.00,22.91,1.00,0.00,3884.00,980.00,72.00,637.00,0.00,2195.00
+2024,11,UA,United Air Lines Network,ORD,"Chicago, IL: Chicago O'Hare International",7178.00,1163.00,306.27,7.63,544.77,0.00,304.32,12.00,2.00,65393.00,20554.00,590.00,18251.00,0.00,25998.00
+2024,11,UA,United Air Lines Network,PHL,"Philadelphia, PA: Philadelphia International",340.00,59.00,17.15,1.20,20.34,0.00,20.31,0.00,0.00,3571.00,1292.00,65.00,769.00,0.00,1445.00
+2024,11,UA,United Air Lines Network,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",962.00,158.00,39.67,2.69,52.85,0.00,62.79,3.00,1.00,9482.00,2411.00,200.00,1919.00,0.00,4952.00
+2024,11,UA,United Air Lines Network,SAN,"San Diego, CA: San Diego International",875.00,150.00,37.49,5.22,67.64,0.00,39.65,1.00,1.00,8627.00,2120.00,542.00,2846.00,0.00,3119.00
+2024,11,UA,United Air Lines Network,SEA,"Seattle, WA: Seattle/Tacoma International",709.00,108.00,29.69,2.33,34.83,0.00,41.15,1.00,0.00,5547.00,1482.00,120.00,1264.00,0.00,2681.00
+2024,11,UA,United Air Lines Network,SFO,"San Francisco, CA: San Francisco International",4919.00,1164.00,229.95,19.87,656.47,0.00,257.71,33.00,5.00,93512.00,17182.00,2250.00,48517.00,0.00,25563.00
+2024,11,UA,United Air Lines Network,SLC,"Salt Lake City, UT: Salt Lake City International",228.00,42.00,17.05,0.73,8.04,0.00,16.18,0.00,0.00,2284.00,936.00,33.00,320.00,0.00,995.00
+2024,11,UA,United Air Lines Network,TPA,"Tampa, FL: Tampa International",730.00,95.00,25.95,0.88,28.78,0.00,39.39,1.00,1.00,6325.00,1846.00,63.00,1077.00,0.00,3339.00
