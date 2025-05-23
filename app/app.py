@@ -2,12 +2,14 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import joblib
 
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.utils import resample
 
-
+model = joblib.load("/Users/khali/Desktop/Coding Workspace/Flight Delay Prediction/model/model.pkl")
+feature_columns = joblib.load("/Users/khali/Desktop/Coding Workspace/Flight Delay Prediction/model/feature_columns.pkl")
 
 @st.cache_data
 
@@ -18,6 +20,7 @@ def load_data():
     x = df[["month" , "carrier" , "airport" , "carrier_ct" , "weather_ct" , "nas_ct" , "late_aircraft_ct" ]]
     y = df["high_delay"]
     x = pd.get_dummies(x , columns = ["carrier" , "airport"] , drop_first = True)
+
 
 
     df_balanced = pd.concat([x, y] , axis = 1)
@@ -81,9 +84,11 @@ for c in carriers:
     input_data[f"carrier_{c}"] = [1 if c == carrier else 0]
 
 for a in airports:
-    input_data[f"aiport_{a}"] = [1 if a == airport else 0 ]
+    input_data[f"airport_{a}"] = [1 if a == airport else 0 ]
 
 input_df = pd.DataFrame(input_data)
+
+input_df = input_df.reindex(columns = feature_columns , fill_value=0)
 
 
 if st.button("Predict Delay Risk"):
